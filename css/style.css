@@ -1,3 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+
+img {
+    display: inline-block;
+}
+
+span {
+    display: inline-block;
+}
+
+button {
+    background: transparent;
+    display: inline-block;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+li{
+    width: 607px;
+    height: 50px;
+    border: 2px black solid;
+    text-align: center;
+
+
+}
+
+li a{
+    color: black;
+    font-weight: 1000;
+    font-size: xx-large;
+}
+
+
 .container-box {
     max-width: 100%;
     width: 1300px;
@@ -156,3 +212,205 @@
     font-size: xx-large;
     margin-bottom: 20px;
 }
+
+.box-16 {
+    background: #2b2e1d;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-17 {
+    background: #993808;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-18 {
+    background: #785044;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-19 {
+    background: #40e0d0;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-20 {
+    background: #ff7f50;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-21 {
+    background: #970d00;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-22 {
+    background: #9ab9a1;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-23 {
+    background: #14233a;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-24 {
+    background: #c1bfb2;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-25 {
+    background: #018677;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-26 {
+    background: #86a0bb;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-27 {
+    background: #b8bda3;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-28 {
+    background: #7f9694;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-29 {
+    background: #958d52;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-30 {
+    background: #5d474a;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-31 {
+    background: #b2b847;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-32 {
+    background: #d69963;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-33{
+    background: #5ef4cf;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.box-34 {
+    background: #3e0d0d;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+
+.box-35 {
+    background: #e07dc7a8;
+    padding: 80px 130px;
+    color: #fff;
+    text-align: center;
+    font-weight: 1000;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
